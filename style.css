@@ -1,3 +1,3 @@
 body { background: orange; font-family: "Comic Sans MS"; }  
 h1 { text-align:center; font-weight:bold; font-style:italic; }
-.image { image-size:cover }
+.image { height:400px; }
